@@ -23,3 +23,6 @@ cdk.out/
 
 # DS Store
 .DS_Store
+.codex-repo-context.json
+*.tfstate
+*.tfstate.*
